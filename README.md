@@ -34,9 +34,9 @@
  <pre> Opensens_2.exe </pre> 
 
  3. Some features:<br><br>
- <pre> ![alt](https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/1.png) </pre> 
- <pre> ![alt](https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/2.png) </pre> 
- <pre> ![alt](https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/3.png) </pre> 
+ <pre> https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/1.png </pre> 
+ <pre> https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/2.png </pre> 
+ <pre> https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/3.png) </pre> 
 
 
 

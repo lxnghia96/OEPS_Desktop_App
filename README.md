@@ -35,8 +35,10 @@
 
  3. Some features:<br><br>
  ![1](https://github.com/user-attachments/assets/bd0af91e-284e-4bf0-b211-1ad2d8d9517c)
- <pre> https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/2.png </pre> 
- <pre> https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/3.png) </pre> 
+
+ ![2](https://github.com/user-attachments/assets/ab094a77-b347-4bbe-b32b-61e423efd8a4)
+ 
+ ![3](https://github.com/user-attachments/assets/66d2d18e-727d-45ef-8b91-6b0deb50b89c)
 
 
 

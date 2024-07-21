@@ -26,12 +26,12 @@
  Press Enter to complete running.<br>
 
   
-  *Run origin version 1
- <pre> python main_v1.py </pre> 
+  *Run origin version 2
+ <pre> python main.py </pre> 
  Press Enter to complete running.
 
   *Run application version 1
- <pre> Opensens v1 </pre> 
+ <pre> Opensens 2 </pre> 
 
 
 

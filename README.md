@@ -30,8 +30,13 @@
  <pre> python main.py </pre> 
  Press Enter to complete running.
 
-  *Run application version 1
- <pre> Opensens 2 </pre> 
+  *Run application version 2
+ <pre> Opensens_2.exe </pre> 
+
+ 3. Some features:<br><br>
+ <pre> ![alt](https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/1.png) </pre> 
+ <pre> ![alt](https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/2.png) </pre> 
+ <pre> ![alt](https://github.com/lxnghia96/OEPS_Desktop_App/blob/main/picture/3.png) </pre> 
 
 
 
